@@ -1,6 +1,6 @@
 ![I am web developer](https://media.licdn.com/dms/image/D5616AQFwv9mI6dxXPA/profile-displaybackgroundimage-shrink_350_1400/0/1686506823712?e=1692230400&v=beta&t=MTvLYln5_DiK8LHv6Ws9hPegPCSnwI-PDvDmvabS3iM)
-### Hi there 👋, My name is Rakib
-#### I am web developer
+# Hi there 👋, My name is Rakib
+#### I am a web developer
 
 
 I am a passionate Front End Web developer who strives to create error-free websites and achieve 100% client satisfaction. I have a deep passion for learning and sharing knowledge with others, aiming to do so as publicly as possible. Solving real-world problems is what I enjoy the most, and I approach my work strategically and goal-oriented, always keeping the end goal in mind. Throughout the years, I have successfully delivered hundreds of websites for my clients, consistently maintaining a high standard of quality work. Communication is key for me, as I believe in maintaining excellent communication throughout the development process. While I primarily work with WordPress, I also enjoy working with JavaScript and PHP as part of my technological toolkit.
